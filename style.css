@@ -1,0 +1,17 @@
+body{
+    color: white;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(187,83,185,1) 50%, rgba(255,0,0,1) 100%);
+    
+}
+h3{
+    width: 80%;
+    font-size: 22px;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+#result_of_objects, #result_of_accuracy{
+    color: yellow;
+}
